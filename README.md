@@ -1,6 +1,6 @@
 # Hello, I'm Chuma Ejekute-Obi
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chukwuma-ejekute-obi-5a390925b/)
 [![GitLab](https://img.shields.io/badge/GITLAB-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](YOUR_GITLAB_URL_HERE)
 
 I am a recent Cybersecurity graduate with a strong interest in security operations, network security, vulnerability analysis, secure coding, cloud compliance, and defensive security.
