@@ -42,6 +42,12 @@ I am especially interested in entry-level roles such as:
 
 ---
 
+## Education
+
+**Bachelor of Science in Cybersecurity**  
+University of North Texas  
+Graduated: 2026
+
 ## Tools
 
 ### Network Security
