@@ -1,614 +1,111 @@
-# Chuma Ejekute-Obi | Cybersecurity & Computer Science Portfolio
+# Hello, I'm Chuma Ejekute-Obi
 
-Welcome to my professional project portfolio. This repository highlights cybersecurity, computer science, networking, secure coding, cloud security, compliance, system administration, and research-based projects completed through academic work and hands-on technical practice.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![GitLab](https://img.shields.io/badge/GITLAB-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](YOUR_GITLAB_URL_HERE)
 
-I recently graduated with a degree in Cybersecurity, and my work focuses on practical security analysis, defensive security, secure coding, compliance monitoring, malware scanning, system hardening, network analysis, scripting, and software development.
+I am a recent Cybersecurity graduate with a strong interest in security operations, network security, vulnerability analysis, secure coding, cloud compliance, and defensive security.
 
----
-
-## About Me
-
-I am a cybersecurity graduate with hands-on experience in security labs, vulnerability research, secure system configuration, network analysis, Linux environments, scripting, and software development. My projects helped me build a strong foundation in cybersecurity operations, system administration, secure coding, cloud security, compliance, and practical attack/defense concepts.
-
-My main interests include:
-
-- Security Operations Center analysis
-- Network security
-- Vulnerability assessment
-- Cloud security and compliance
-- Malware detection and file scanning
-- Secure software development
-- Digital forensics and packet analysis
-- Red team and blue team lab environments
-- Automation using Python, PowerShell, C++, and Bash
+My background includes hands-on academic and lab-based experience with Linux, Windows Server, Wireshark, Docker, OpenSCAP, VirusTotal API workflows, PowerShell automation, cryptography labs, and web application security testing.
 
 ---
 
-# Featured Cybersecurity Projects
+## Objective
 
-## 1. VirusTotal Mini Scanner
+My goal is to transition into a cybersecurity role where I can apply my technical skills in security monitoring, vulnerability assessment, incident investigation, compliance support, and secure system analysis.
 
-**Category:** Cybersecurity / Malware Analysis / DevSecOps  
-**Tools Used:** C++, libcurl, OpenSSL, VirusTotal API, Linux
+I am especially interested in entry-level roles such as:
 
-This project is a lightweight malware scanning tool built in C++ that calculates the SHA-256 hash of a file and checks the file reputation using the VirusTotal API.
-
-**Main Features:**
-
-- Computes file SHA-256 hashes
-- Sends hash queries to VirusTotal
-- Supports file upload or report lookup workflow
-- Parses scan results from VirusTotal
-- Classifies results as malicious, suspicious, harmless, or undetected
-- Generates security logs and JSON reports
-- Supports defensive decision-making such as ALLOW, REVIEW, or BLOCK
-
-**Skills Demonstrated:**
-
-- Malware analysis fundamentals
-- API-based threat intelligence
-- Secure file hashing
-- C++ security tooling
-- DevSecOps security automation
-- Logging and reporting for security workflows
-
-**Proof / Screenshots:**
-
-![VirusTotal Scanner Screenshot](screenshots/virustotal-scanner.png)
-
----
-
-## 2. CEPR8 Compliance Monitor using OpenSCAP
-
-**Category:** Cloud Security / Compliance / DevSecOps  
-**Tools Used:** OpenSCAP, Linux, Bash, Security Compliance Profiles
-
-This project focused on building a compliance monitoring tool using OpenSCAP to scan systems against security baselines and generate compliance reports.
-
-**Main Features:**
-
-- Runs OpenSCAP security scans
-- Checks system compliance against selected benchmarks
-- Generates compliance scan reports
-- Supports security auditing workflows
-- Helps identify misconfigurations and weak system settings
-
-**Skills Demonstrated:**
-
-- Compliance monitoring
-- Cloud security controls
-- Security auditing
-- Linux hardening
-- DevSecOps automation
-- Risk and control validation
-
-**Proof / Screenshots:**
-
-![OpenSCAP Compliance Screenshot](screenshots/openscap-compliance.png)
-
----
-
-## 3. LLMNR / NetBIOS Attack and Defense Automation Tool
-
-**Category:** Network Security / Windows Security / PowerShell Automation  
-**Tools Used:** Kali Linux, Windows Server, PowerShell, Responder, Wireshark
-
-This project demonstrated how LLMNR and NetBIOS name resolution can create security risk in a local network lab environment. I also created a PowerShell-based defense tool to enable or disable protective settings.
-
-**Main Features:**
-
-- Demonstrated LLMNR poisoning concepts in a controlled lab
-- Used Kali Linux and Responder for attack simulation
-- Used Windows as the victim machine
-- Built PowerShell functions to enable and disable protections
-- Included menu-based options for easier user interaction
-- Controlled Windows firewall and NetBIOS settings
-
-**Skills Demonstrated:**
-
-- Windows network security
-- LLMNR and NetBIOS misconfiguration awareness
-- PowerShell automation
-- Defensive security hardening
-- Attack simulation in a lab environment
-- Wireshark packet analysis
-
-**Proof / Screenshots:**
-
-![LLMNR Defense Tool Screenshot](screenshots/llmnr-defense-tool.png)
-
----
-
-## 4. Cryptography Replay Attack Lab
-
-**Category:** Cryptography / Secure Communication / Network Security  
-**Tools Used:** Python, Flask, AES-GCM, AES-CTR, HMAC, Wireshark
-
-This project explored secure communication between a client and server using encryption and message authentication. I tested how replay attacks can still work if freshness checks are not used.
-
-**Main Features:**
-
-- Built a client-server communication lab
-- Used AES-GCM encryption
-- Used AES-CTR and HMAC concepts
-- Captured encrypted responses as binary files
-- Replayed saved server responses
-- Added timestamp freshness checks to block replay attacks
-- Verified encrypted packet behavior in Wireshark
-
-**Skills Demonstrated:**
-
-- Symmetric encryption
-- Authentication tags
-- Replay attack understanding
-- Secure API design
-- Freshness validation
-- Wireshark packet inspection
-- Python security scripting
-
-**Proof / Screenshots:**
-
-![Cryptography Replay Lab Screenshot](screenshots/crypto-replay-lab.png)
-
----
-
-## 5. Wireshark Packet Analysis Labs
-
-**Category:** Network Security / Digital Forensics  
-**Tools Used:** Wireshark, Linux, Windows, TCP/IP, DNS, HTTP, RDP
-
-These labs focused on capturing and analyzing network packets to better understand communication between systems.
-
-**Main Features:**
-
-- Captured live packets
-- Analyzed DNS traffic
-- Reviewed TCP/IP behavior
-- Inspected request and response packets
-- Studied unusual network communication
-- Used packet details to explain what was happening on the network
-
-**Skills Demonstrated:**
-
-- Packet analysis
-- Network troubleshooting
-- Protocol analysis
-- Digital forensics basics
-- Security investigation skills
-
-**Proof / Screenshots:**
-
-![Wireshark Packet Analysis Screenshot](screenshots/wireshark-analysis.png)
-
----
-
-## 6. Pixhawk Flight Control System Vulnerability Research
-
-**Category:** Embedded Security / Reverse Engineering / Drone Security  
-**Tools Used:** ArduPilot Copter Firmware, Pixhawk, Mission Planner, IDA Pro
-
-This project focused on researching potential security concerns in Pixhawk flight control systems and analyzing firmware behavior.
-
-**Main Features:**
-
-- Studied ArduPilot Copter firmware
-- Explored Pixhawk flight control system behavior
-- Reviewed firmware code structure
-- Used reverse engineering concepts
-- Investigated possible attack surfaces in drone systems
-
-**Skills Demonstrated:**
-
-- Embedded systems security
-- Firmware analysis
-- Reverse engineering fundamentals
-- Drone security research
-- Secure system analysis
-
-**Proof / Screenshots:**
-
-![Pixhawk Research Screenshot](screenshots/pixhawk-research.png)
-
----
-
-# Web Security Practice Labs
-
-## 7. CSRF Protection Lab
-
-**Category:** Web Security / Secure Coding  
-**Tools Used:** Python, Flask, Flask-WTF, HTML
-
-This lab demonstrated Cross-Site Request Forgery and how CSRF token protection helps prevent unauthorized form submissions.
-
-**Main Features:**
-
-- Built a vulnerable web form
-- Created a fake attacker page in a controlled lab
-- Demonstrated CSRF attack behavior
-- Implemented CSRF protection using Flask-WTF
-- Compared protected and unprotected requests
-
-**Skills Demonstrated:**
-
-- Web application security
-- CSRF attack prevention
-- Secure form handling
-- Flask security features
-- Secure coding practices
-
-**Proof / Screenshots:**
-
-![CSRF Lab Screenshot](screenshots/csrf-lab.png)
-
----
-
-## 8. JWT Authentication Security Lab
-
-**Category:** Web Security / Authentication Security / API Security  
-**Tools Used:** JSON Web Tokens, Browser Developer Tools, Web Testing Tools
-
-This lab focused on understanding how JWT authentication works and how weak JWT handling can create authentication security issues.
-
-**Main Features:**
-
-- Studied JWT structure
-- Practiced analyzing token headers and payloads
-- Learned common JWT security mistakes
-- Explored authentication bypass concepts in a controlled lab
-- Documented secure validation practices
-
-**Skills Demonstrated:**
-
-- Authentication security
-- Token-based access control
-- Web security testing
-- Secure session design
-- API security fundamentals
-
-**Proof / Screenshots:**
-
-![JWT Lab Screenshot](screenshots/jwt-lab.png)
-
----
-
-## 9. XSS Web Security Lab
-
-**Category:** Web Security / Application Security  
-**Tools Used:** HTML, JavaScript, Browser Developer Tools, Vulnerable Web Apps
-
-This lab focused on learning Cross-Site Scripting from the ground up using safe lab-based examples.
-
-**Main Features:**
-
-- Practiced reflected and stored XSS concepts
-- Studied how unsafe input handling causes vulnerabilities
-- Tested JavaScript payload behavior in safe lab environments
-- Learned how output encoding and validation reduce XSS risk
-
-**Skills Demonstrated:**
-
-- Web application security
-- JavaScript behavior analysis
-- Input validation
-- Output encoding
-- Secure coding awareness
-
-**Proof / Screenshots:**
-
-![XSS Lab Screenshot](screenshots/xss-lab.png)
-
----
-
-## 10. DVWA Vulnerability Testing Lab
-
-**Category:** Web Security / Ethical Hacking Lab  
-**Tools Used:** Kali Linux, DVWA, Apache, MySQL, PHP
-
-This project involved setting up a vulnerable web application lab to practice common web security vulnerabilities in a legal and controlled environment.
-
-**Main Features:**
-
-- Installed and configured DVWA
-- Practiced web vulnerability testing
-- Studied SQL injection, XSS, CSRF, and authentication issues
-- Used Kali Linux as the testing environment
-
-**Skills Demonstrated:**
-
-- Ethical hacking fundamentals
-- Web vulnerability testing
-- Kali Linux lab setup
-- Secure coding awareness
-- Vulnerability documentation
-
-**Proof / Screenshots:**
-
-![DVWA Lab Screenshot](screenshots/dvwa-lab.png)
-
----
-
-# Networking and System Security Projects
-
-## 11. Network Detection Script
-
-**Category:** Networking / Cybersecurity Automation  
-**Tools Used:** Python, Linux, Local Network Scanning
-
-This project involved creating a script that scans devices on the same local network to identify active hosts.
-
-**Main Features:**
-
-- Detects devices on a local network
-- Scans IP address ranges
-- Helps identify active systems
-- Supports basic network visibility
-
-**Skills Demonstrated:**
-
-- Network discovery
-- Python scripting
-- IP addressing
-- Local network analysis
-- Blue team visibility concepts
-
-**Proof / Screenshots:**
-
-![Network Detection Script Screenshot](screenshots/network-detection-script.png)
-
----
-
-## 12. RDP Security Lab
-
-**Category:** Network Security / Windows Security / Remote Access  
-**Tools Used:** FreeRDP, Windows Server, Kali Linux, Wireshark
-
-This project focused on Remote Desktop Protocol access, authentication behavior, and network traffic observation in a lab environment.
-
-**Main Features:**
-
-- Configured RDP access between systems
-- Tested login behavior and authentication issues
-- Used FreeRDP commands from Linux
-- Analyzed RDP traffic flow
-- Practiced troubleshooting remote access failures
-
-**Skills Demonstrated:**
-
-- Remote access security
-- Windows account configuration
-- Authentication troubleshooting
-- Network protocol analysis
-- Lab-based attack and defense practice
-
-**Proof / Screenshots:**
-
-![RDP Lab Screenshot](screenshots/rdp-security-lab.png)
-
----
-
-# Computer Science Projects
-
-## 13. Custom Linux Shell Project
-
-**Category:** Computer Science / Operating Systems / C Programming  
-**Tools Used:** C, Linux, GCC, Unix System Calls
-
-This project involved building parts of a custom shell in C, including directory navigation and input/output redirection.
-
-**Main Features:**
-
-- Implemented a built-in `cd` command
-- Added input and output redirection
-- Used Linux system calls
-- Managed process execution
-- Practiced shell behavior and command parsing
-
-**Skills Demonstrated:**
-
-- C programming
-- Operating systems concepts
-- Linux process management
-- File descriptors
-- Input/output redirection
-- Shell implementation
-
-**Proof / Screenshots:**
-
-![Custom Linux Shell Screenshot](screenshots/custom-linux-shell.png)
-
----
-
-## 14. Pipes and Redirection Assignment
-
-**Category:** Computer Science / Operating Systems / C Programming  
-**Tools Used:** C, Linux, pipe(), dup2(), close()
-
-This project focused on interprocess communication using pipes and redirection in C.
-
-**Main Features:**
-
-- Created programs using Unix pipes
-- Used dup2() to redirect file descriptors
-- Used close() to manage resources
-- Connected processes together through pipe communication
-
-**Skills Demonstrated:**
-
-- Interprocess communication
-- Unix system programming
-- Process control
-- File descriptor management
-- C programming fundamentals
-
-**Proof / Screenshots:**
-
-![Pipes and Redirection Screenshot](screenshots/pipes-redirection.png)
-
----
-
-## 15. Docker System Monitoring Lab
-
-**Category:** Computer Science / Cloud / System Administration  
-**Tools Used:** Docker, Linux, Command Line
-
-This lab focused on observing running containers and system resource usage.
-
-**Main Features:**
-
-- Ran Docker containers
-- Used docker ps to view active containers
-- Used docker stats to monitor live CPU, memory, and network usage
-- Practiced troubleshooting permission issues with Docker commands
-
-**Skills Demonstrated:**
-
-- Container basics
-- Linux command line
-- Resource monitoring
-- System administration
-- Cloud computing fundamentals
-
-**Proof / Screenshots:**
-
-![Docker Monitoring Screenshot](screenshots/docker-monitoring.png)
-
----
-
-# Software Development Project
-
-## 16. LVLCRAFT iOS Game App
-
-**Category:** Software Development / iOS Development / SwiftUI  
-**Tools Used:** SwiftUI, Xcode, AVFoundation, StoreKit, UserDefaults
-
-LVLCRAFT is a retro RPG-style habit tracking and self-improvement iOS game. The app turns real-life activities into game progression, stats, EXP, trophies, skins, and missions.
-
-**Main Features:**
-
-- Retro pixel-style user interface
-- Character creation system
-- Activity completion system
-- EXP and leveling system
-- Stat tracking system
-- Daily objectives
-- Nutrition room
-- Trophy room
-- Treasure room
-- Skin unlock system
-- Background music and animated video backgrounds
-- Responsive SwiftUI layouts for different iPhone screen sizes
-
-**Skills Demonstrated:**
-
-- SwiftUI app development
-- Mobile UI design
-- Game logic
-- Local data persistence
-- StoreKit concepts
-- Responsive design
-- App architecture
-- User experience design
-
-**Proof / Screenshots:**
-
-![LVLCRAFT Screenshot](screenshots/lvlcraft-home.png)
-
----
-
-# Security and Technical Skills
-
-## Cybersecurity Skills
-
-- Network security
-- Web application security
-- Malware scanning
-- Threat intelligence
-- Vulnerability assessment
-- Compliance monitoring
-- Secure coding
-- Packet analysis
-- Windows security hardening
-- Linux security
-- Cryptography fundamentals
-- Authentication security
-- SOC analyst fundamentals
-
-## Programming and Scripting
-
-- Python
-- C
-- C++
-- PowerShell
-- Bash
-- JavaScript
-- HTML
-- CSS
-- Swift / SwiftUI
-
-## Tools and Platforms
-
-- Kali Linux
-- Ubuntu
-- Windows Server
-- Wireshark
-- Docker
-- OpenSCAP
-- VirusTotal API
-- Responder
-- FreeRDP
-- Flask
-- DVWA
-- Xcode
-- GitLab
-- VS Code
-- IDA Pro concepts
-- Mission Planner
-- OpenSSL
-
----
-
-# Academic Focus Areas
-
-My school projects covered several major areas of cybersecurity and computer science, including:
-
-- Operating systems
-- Computer networks
-- Secure electronic commerce
-- Cryptography
-- Web application security
-- Cloud security
-- Compliance and auditing
-- Malware analysis
-- DevSecOps
-- Digital forensics
-- Reverse engineering
-- System administration
-- Software development
-
----
-
-# Professional Summary
-
-This portfolio represents my growth as a cybersecurity graduate and technical problem solver. Through academic labs, security research, programming assignments, and personal projects, I developed hands-on experience with both offensive and defensive cybersecurity concepts.
-
-My strongest areas include network security, secure system configuration, vulnerability analysis, malware scanning, web security, Linux environments, PowerShell automation, and practical security documentation.
-
-I am continuing to grow toward roles such as:
-
-- Junior Security Analyst
 - SOC Analyst
+- Junior Security Analyst
 - Cybersecurity Analyst
 - Information Security Analyst
 - Vulnerability Management Analyst
 - Cloud Security Analyst
 - GRC / Compliance Analyst
-- Entry-Level DevSecOps Analyst
 
 ---
 
-# Contact
+## Skills
+
+| Skill | Associated Project |
+|---|---|
+| Malware Scanning and Threat Intelligence | [VirusTotal Mini Scanner](projects/virustotal-mini-scanner.md) |
+| Cloud Compliance Monitoring | [CEPR8 Compliance Monitor](projects/cepr8-openscap-monitor.md) |
+| PowerShell Security Automation | [LLMNR / NetBIOS Defense Tool](projects/llmnr-netbios-defense-tool.md) |
+| Network Traffic Analysis | [Wireshark Packet Analysis Labs](projects/wireshark-packet-analysis.md) |
+| Cryptography and Replay Attack Testing | [Cryptography Replay Attack Lab](projects/cryptography-replay-attack-lab.md) |
+| Web Application Security | [Web Security Practice Labs](projects/web-security-practice-labs.md) |
+| Linux System Programming | [Custom Linux Shell Project](projects/custom-linux-shell-project.md) |
+| Docker and System Monitoring | [Docker System Monitoring Lab](projects/docker-system-monitoring-lab.md) |
+| Embedded Security Research | [Pixhawk Flight Control Research](projects/pixhawk-security-research.md) |
+| iOS Software Development | [LVLCRAFT iOS App](projects/lvlcraft-ios-app.md) |
+
+---
+
+## Tools
+
+### Network Security
+
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Responder](https://img.shields.io/badge/RESPONDER-333333?style=for-the-badge)
+![FreeRDP](https://img.shields.io/badge/FREERDP-00599C?style=for-the-badge)
+
+### Operating Systems
+
+![Kali Linux](https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/WINDOWS_SERVER-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Security and Compliance
+
+![OpenSCAP](https://img.shields.io/badge/OPENSCAP-2E7D32?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OPENSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+
+### Programming and Scripting
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Swift](https://img.shields.io/badge/SWIFT-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### Development and Platforms
+
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GITLAB-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/XCODE-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+---
+
+## Certifications
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_SECURITY+-E31837?style=for-the-badge&logo=comptia&logoColor=white)
+
+---
+
+## Projects
+
+- [VirusTotal Mini Scanner](projects/virustotal-mini-scanner.md)
+- [CEPR8 Compliance Monitor using OpenSCAP](projects/cepr8-openscap-monitor.md)
+- [LLMNR / NetBIOS Defense Automation Tool](projects/llmnr-netbios-defense-tool.md)
+- [Cryptography Replay Attack Lab](projects/cryptography-replay-attack-lab.md)
+- [Wireshark Packet Analysis Labs](projects/wireshark-packet-analysis.md)
+- [Pixhawk Flight Control System Vulnerability Research](projects/pixhawk-security-research.md)
+- [Web Security Practice Labs](projects/web-security-practice-labs.md)
+- [Network Detection Script](projects/network-detection-script.md)
+- [RDP Security Lab](projects/rdp-security-lab.md)
+- [Custom Linux Shell Project](projects/custom-linux-shell-project.md)
+- [Pipes and Redirection Assignment](projects/pipes-redirection-assignment.md)
+- [Docker System Monitoring Lab](projects/docker-system-monitoring-lab.md)
+- [LVLCRAFT iOS App](projects/lvlcraft-ios-app.md)
+
+---
+
+## Contact
 
 **Name:** Chuma Ejekute-Obi  
 **Email:** chumaejekuteobi@gmail.com  
-**Portfolio:** GitLab Project Portfolio  
-**Focus:** Cybersecurity, Security Operations, Secure Software Development, and Cloud Security
+**Focus:** Cybersecurity, SOC Analysis, Network Security, Cloud Compliance, and Secure Software Development
