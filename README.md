@@ -80,9 +80,14 @@ I am especially interested in entry-level roles such as:
 
 ---
 
-## Certifications
+## Certifications & Virtual Experience
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_SECURITY+-E31837?style=for-the-badge&logo=comptia&logoColor=white)
+![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-green?style=for-the-badge)
+![Cybersecurity Degree](https://img.shields.io/badge/Degree-Cybersecurity-blue?style=for-the-badge)
+![JPMorgan Forage](https://img.shields.io/badge/JPMorgan-Cybersecurity%20Job%20Simulation-darkblue?style=for-the-badge)
+![AIG Forage](https://img.shields.io/badge/AIG-Shields%20Up%20Cybersecurity%20Simulation-blue?style=for-the-badge)
+![Tata Forage](https://img.shields.io/badge/Tata-Cybersecurity%20Analyst%20Simulation-purple?style=for-the-badge)
+![Coursera](https://img.shields.io/badge/Coursera-Cybersecurity%20Training-0056D2?style=for-the-badge)
 
 ---
 
