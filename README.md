@@ -5,7 +5,7 @@
 
 I am a recent Cybersecurity graduate with a strong interest in security operations, network security, vulnerability analysis, secure coding, cloud compliance, and defensive security.
 
-My background includes hands-on academic and lab-based experience with Linux, Windows Server, Wireshark, Docker, OpenSCAP, VirusTotal API workflows, PowerShell automation, cryptography labs, and web application security testing.
+My background includes hands-on academic and lab-based experience with Linux, Windows Server, Wireshark, VirusTotal API workflows, PowerShell automation, and web application security testing.
 
 ---
 
@@ -30,13 +30,9 @@ I am especially interested in entry-level roles such as:
 | Skill | Associated Project |
 |---|---|
 | Malware Scanning and Threat Intelligence | [VirusTotal Mini Scanner](projects/virustotal-mini-scanner.md) |
-| Cloud Compliance Monitoring | [CEPR8 Compliance Monitor](projects/cepr8-openscap-monitor.md) |
 | PowerShell Security Automation | [LLMNR / NetBIOS Defense Tool](projects/llmnr-netbios-defense-tool.md) |
 | Network Traffic Analysis | [Wireshark Packet Analysis Labs](projects/wireshark-packet-analysis.md) |
-| Cryptography and Replay Attack Testing | [Cryptography Replay Attack Lab](projects/cryptography-replay-attack-lab.md) |
 | Web Application Security | [Web Security Practice Labs](projects/web-security-practice-labs.md) |
-| Linux System Programming | [Custom Linux Shell Project](projects/custom-linux-shell-project.md) |
-| Docker and System Monitoring | [Docker System Monitoring Lab](projects/docker-system-monitoring-lab.md) |
 | Embedded Security Research | [Pixhawk Flight Control Research](projects/pixhawk-security-research.md) |
 | iOS Software Development | [LVLCRAFT iOS App](projects/lvlcraft-ios-app.md) |
 
@@ -100,17 +96,12 @@ Graduated: 2026
 ## Projects
 
 - [VirusTotal Mini Scanner](projects/virustotal-mini-scanner.md)
-- [CEPR8 Compliance Monitor using OpenSCAP](projects/cepr8-openscap-monitor.md)
 - [LLMNR / NetBIOS Defense Automation Tool](projects/llmnr-netbios-defense-tool.md)
-- [Cryptography Replay Attack Lab](projects/cryptography-replay-attack-lab.md)
 - [Wireshark Packet Analysis Labs](projects/wireshark-packet-analysis.md)
 - [Pixhawk Flight Control System Vulnerability Research](projects/pixhawk-security-research.md)
 - [Web Security Practice Labs](projects/web-security-practice-labs.md)
 - [Network Detection Script](projects/network-detection-script.md)
 - [RDP Security Lab](projects/rdp-security-lab.md)
-- [Custom Linux Shell Project](projects/custom-linux-shell-project.md)
-- [Pipes and Redirection Assignment](projects/pipes-redirection-assignment.md)
-- [Docker System Monitoring Lab](projects/docker-system-monitoring-lab.md)
 - [LVLCRAFT iOS App](projects/lvlcraft-ios-app.md)
 
 ---
