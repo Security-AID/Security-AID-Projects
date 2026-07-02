@@ -34,7 +34,6 @@ I am especially interested in entry-level roles such as:
 | Network Traffic Analysis | [Wireshark Packet Analysis Labs](projects/wireshark-packet-analysis.md) |
 | Web Application Security | [Web Security Practice Labs](projects/web-security-practice-labs.md) |
 | Embedded Security Research | [Pixhawk Flight Control Research](projects/pixhawk-security-research.md) |
-| iOS Software Development | [LVLCRAFT iOS App](projects/lvlcraft-ios-app.md) |
 
 ---
 
