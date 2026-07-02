@@ -95,7 +95,6 @@ Graduated: 2026
 ## Projects
 
 - [VirusTotal Mini Scanner](projects/virustotal-mini-scanner.md)
-- [Wireshark Packet Analysis Labs](projects/wireshark-packet-analysis.md)
 - [Pixhawk Flight Control System Vulnerability Research](projects/pixhawk-security-research.md)
 - [Web Security Practice Labs](projects/web-security-practice-labs.md)
 - [Network Detection Script](projects/network-detection-script.md)
