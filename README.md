@@ -96,13 +96,11 @@ Graduated: 2026
 ## Projects
 
 - [VirusTotal Mini Scanner](projects/virustotal-mini-scanner.md)
-- [LLMNR / NetBIOS Defense Automation Tool](projects/llmnr-netbios-defense-tool.md)
 - [Wireshark Packet Analysis Labs](projects/wireshark-packet-analysis.md)
 - [Pixhawk Flight Control System Vulnerability Research](projects/pixhawk-security-research.md)
 - [Web Security Practice Labs](projects/web-security-practice-labs.md)
 - [Network Detection Script](projects/network-detection-script.md)
 - [RDP Security Lab](projects/rdp-security-lab.md)
-- [LVLCRAFT iOS App](projects/lvlcraft-ios-app.md)
 
 ---
 
