@@ -9,6 +9,16 @@ My background includes hands-on academic and lab-based experience with Linux, Wi
 
 ---
 
+## Projects
+
+- [Pixhawk Flight Control System Vulnerability Research](projects/pixhawk-security-research/README.md)
+- [RDP Security Lab](projects/rdp-security-lab/README.md)
+- [Network Detection Script](projects/network-detection-script/README.md)
+- [VirusTotal Mini Scanner / InfectionPoint](projects/virustotal-mini-scanner/README.md)
+- Web Security Practice Labs - documentation in progress
+
+---
+
 ## Objective
 
 My goal is to transition into a cybersecurity role where I can apply my technical skills in security monitoring, vulnerability assessment, incident investigation, compliance support, and secure system analysis.
@@ -29,11 +39,11 @@ I am especially interested in entry-level roles such as:
 
 | Skill | Associated Project |
 |---|---|
-| Malware Scanning and Threat Intelligence | [VirusTotal Mini Scanner](projects/virustotal-mini-scanner.md) |
-| PowerShell Security Automation | [LLMNR / NetBIOS Defense Tool](projects/llmnr-netbios-defense-tool.md) |
-| Network Traffic Analysis | [Wireshark Packet Analysis Labs](projects/wireshark-packet-analysis.md) |
-| Web Application Security | [Web Security Practice Labs](projects/web-security-practice-labs.md) |
-| Embedded Security Research | [Pixhawk Flight Control Research](projects/pixhawk-security-research.md) |
+| Malware Scanning and Threat Intelligence | [VirusTotal Mini Scanner](projects/virustotal-mini-scanner/README.md) |
+| PowerShell Security Automation | [RDP Security Lab](projects/rdp-security-lab/README.md) |
+| Network Traffic Analysis | [Network Detection Script](projects/network-detection-script/README.md) |
+| Web Application Security | Documentation in progress |
+| Embedded Security Research | [Pixhawk Flight Control Research](projects/pixhawk-security-research/README.md) |
 
 ---
 
@@ -89,16 +99,6 @@ Graduated: 2026
 ![AIG Forage](https://img.shields.io/badge/AIG-Shields%20Up%20Cybersecurity%20Simulation-blue?style=for-the-badge)
 ![Tata Forage](https://img.shields.io/badge/Tata-Cybersecurity%20Analyst%20Simulation-purple?style=for-the-badge)
 ![Coursera](https://img.shields.io/badge/Coursera-Cybersecurity%20Training-0056D2?style=for-the-badge)
-
----
-
-## Projects
-
-- [VirusTotal Mini Scanner](projects/virustotal-mini-scanner.md)
-- [Pixhawk Flight Control System Vulnerability Research](projects/pixhawk-security-research.md)
-- [Web Security Practice Labs](projects/web-security-practice-labs.md)
-- [Network Detection Script](projects/network-detection-script.md)
-- [RDP Security Lab](projects/rdp-security-lab.md)
 
 ---
 
