@@ -43,9 +43,11 @@ This project was used only on systems and network traffic that I owned or had pe
 ---
 ## Title
 ![Network detector displaying DNS, TCP, UDP, IPv4, and IPv6 traffic](../images/network-detection/network-detector-03.png)
+---
 
 ## Showcase (Option: Sniffing Traffic)
 ![Network detector displaying DNS, TCP, UDP, IPv4, and IPv6 traffic](../images/network-detection/network-detector-04.png)
+---
 
 ## Steps
 
