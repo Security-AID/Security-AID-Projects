@@ -11,10 +11,10 @@ My background includes hands-on academic and lab-based experience with Linux, Wi
 
 ## Projects
 
-- [Pixhawk Flight Control System Vulnerability Research](projects/pixhawk-security-research/README.md)
-- [RDP Security Lab](projects/rdp-security-lab/README.md)
-- [Network Detection Script](projects/network-detection-script/README.md)
-- [VirusTotal Mini Scanner / InfectionPoint](projects/virustotal-mini-scanner/README.md)
+- [Pixhawk Flight Control System Vulnerability Research](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/pixhawk-security-research)
+- [RDP Security Lab](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/rdp-security-lab)
+- [Network Detection Script](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/network-detection-script)
+- [VirusTotal Mini Scanner / InfectionPoint](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/virustotal-mini-scanner)
 - Web Security Practice Labs - documentation in progress
 
 ---
@@ -39,11 +39,11 @@ I am especially interested in entry-level roles such as:
 
 | Skill | Associated Project |
 |---|---|
-| Malware Scanning and Threat Intelligence | [VirusTotal Mini Scanner](projects/virustotal-mini-scanner/README.md) |
-| PowerShell Security Automation | [RDP Security Lab](projects/rdp-security-lab/README.md) |
-| Network Traffic Analysis | [Network Detection Script](projects/network-detection-script/README.md) |
+| Malware Scanning and Threat Intelligence | [VirusTotal Mini Scanner](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/virustotal-mini-scanner) |
+| PowerShell Security Automation | [RDP Security Lab](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/rdp-security-lab) |
+| Network Traffic Analysis | [Network Detection Script](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/network-detection-script) |
 | Web Application Security | Documentation in progress |
-| Embedded Security Research | [Pixhawk Flight Control Research](projects/pixhawk-security-research/README.md) |
+| Embedded Security Research | [Pixhawk Flight Control Research](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/pixhawk-security-research) |
 
 ---
 
