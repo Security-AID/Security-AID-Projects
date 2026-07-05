@@ -15,7 +15,7 @@ My background includes hands-on academic and lab-based experience with Linux, Wi
 - [RDP Security Lab](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/rdp-security-lab)
 - [Network Detection Script](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/network-detection-script)
 - [VirusTotal Mini Scanner / InfectionPoint](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/virustotal-mini-scanner)
-- [Web Security Practice Labs](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/web-security-practice-labs)
+- [Web Application Security Practice Labs](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/web-security-practice-labs)
 
 ---
 
@@ -42,7 +42,7 @@ I am especially interested in entry-level roles such as:
 | Malware Scanning and Threat Intelligence | [VirusTotal Mini Scanner](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/virustotal-mini-scanner) |
 | PowerShell Security Automation | [RDP Security Lab](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/rdp-security-lab) |
 | Network Traffic Analysis | [Network Detection Script](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/network-detection-script) |
-| Web Application Security | [Web Security Practice Labs](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/web-security-practice-labs) |
+| Web Application Security | [Web Application Security Practice Labs](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/web-security-practice-labs) |
 | Embedded Security Research | [Pixhawk Flight Control System Vulnerability Research](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/pixhawk-security-research) |
 
 ---
