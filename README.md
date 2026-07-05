@@ -15,7 +15,7 @@ My background includes hands-on academic and lab-based experience with Linux, Wi
 - [RDP Security Lab](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/rdp-security-lab)
 - [Network Detection Script](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/network-detection-script)
 - [VirusTotal Mini Scanner / InfectionPoint](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/virustotal-mini-scanner)
-- Web Security Practice Labs - documentation in progress
+- [Web Security Practice Labs](https://github.com/Security-AID/Security-AID-Projects/tree/main/projects/web-security-practice-labs)
 
 ---
 
